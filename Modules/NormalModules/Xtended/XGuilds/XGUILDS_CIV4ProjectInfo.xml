@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Soren Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Project -->
+<Civ4ProjectInfo xmlns="x-schema:XGUILDS_CIV4GameInfoSchema.xml">
+	<ProjectInfos>
+		<ProjectInfo>
+			<Type>PROJECT_GLOBAL_DISJUNCTION_MINOR</Type>
+			<Description>TXT_KEY_PROJECT_GLOBAL_DISJUNCTION_MINOR</Description>
+			<Civilopedia>TXT_KEY_PROJECT_GLOBAL_DISJUNCTION_MINOR_PEDIA</Civilopedia>
+			<VictoryPrereq>NONE</VictoryPrereq>
+			<AnyonePrereqProject>NONE</AnyonePrereqProject>
+			<TechPrereq>TECH_KNOWLEDGE_OF_THE_ARCANE</TechPrereq>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iCost>-1</iCost>
+			<Button>, ,Art/Interface/Buttons/Spells/Spells_Atlas1.dds,3,11</Button>
+			<CreateSound/>
+			<MovieDefineTag/>
+			<iAIWeight>0</iAIWeight>
+			<iManaCost>200</iManaCost>
+			<iManaUpkeep>0</iManaUpkeep>
+			<bGlobalEnchantment>1</bGlobalEnchantment>
+			<bEffectOnly>1</bEffectOnly>
+			<iDisjunctionPower>20</iDisjunctionPower>
+		</ProjectInfo>
+	</ProjectInfos>
+</Civ4ProjectInfo>

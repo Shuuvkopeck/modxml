@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Civ4CombatAuraClassInfos xmlns="x-schema:XPROMOTION_CIV4CombatAuraSchema.xml">
+	<CombatAuraClassInfos>
+		<CombatAuraClassInfo>
+			<Type>COMBATAURACLASS_POISON_MASTER</Type>
+			<Description>Poison Master</Description>
+            <Button>Modules/NormalModules/Xtended/XPromotion/Buttons2/2c_Poison.dds</Button>
+		</CombatAuraClassInfo>	
+		<CombatAuraClassInfo>
+			<Type>COMBATAURACLASS_AUROR</Type>
+			<Description>Auror</Description>
+            <Button>Modules/NormalModules/Xtended/XPromotion/Buttons2/2c_Poison.dds</Button>
+		</CombatAuraClassInfo>	
+		<CombatAuraClassInfo>
+			<Type>COMBATAURACLASS_ACHLYS</Type>
+			<Description>Achlys</Description>
+            <Button>Modules/NormalModules/Xtended/XPromotion/Buttons2/2c_Poison.dds</Button>
+		</CombatAuraClassInfo>		
+		<CombatAuraClassInfo>
+			<Type>COMBATAURACLASS_ORACLE</Type>
+			<Description>Oracle</Description>
+            <Button>Modules/NormalModules/Xtended/XPromotion/Buttons2/2c_Poison.dds</Button>
+		</CombatAuraClassInfo>		
+	</CombatAuraClassInfos>		
+</Civ4CombatAuraClassInfos>

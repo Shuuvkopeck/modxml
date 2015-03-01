@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!-- Created with the FfH editor by Kael -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Promotion Infos -->
+<Civ4PromotionInfos xmlns="x-schema:XGRAPHIC_CIV4UnitSchema.xml">
+    <PromotionInfos>
+		<PromotionInfo>
+            <Type>PROMOTION_ARCANE_SHIELD</Type>
+            <Button>Art/Interface/Buttons/Promotions/arcaneshield.dds</Button>
+		</PromotionInfo>
+		<PromotionInfo>
+            <Type>PROMOTION_ARCANE_WEAPON</Type>
+            <Button>Art/Interface/Buttons/Promotions/arcaneweapon.dds</Button>
+		</PromotionInfo>		
+		<PromotionInfo>
+			<Type>PROMOTION_RING_OF_REGENERATION</Type>
+			<Description>Ring of Regeneration</Description>
+			<Sound>NONE</Sound>
+			<EquipmentCategory>EQUIPMENTCATEGORY_MISC</EquipmentCategory>
+			<iEquipmentLevel>1</iEquipmentLevel>
+			<AdventurePrereq>ADVENTURE_EQUIPMENT_RING_OF_REGENERATION</AdventurePrereq>
+			<DurabilityType>DURABILITY_UNBREAKABLE</DurabilityType>
+			<iManaCost>50</iManaCost>
+			<bAnyUnitCombat>1</bAnyUnitCombat>
+            <bAlwaysHeal>1</bAlwaysHeal>
+            <iEnemyHealChange>10</iEnemyHealChange>
+            <iNeutralHealChange>10</iNeutralHealChange>
+            <iFriendlyHealChange>10</iFriendlyHealChange>
+			<Button>Art/Interface/Buttons/Equipment/ringofregen.dds</Button>
+		</PromotionInfo>
+		<PromotionInfo>
+			<Type>PROMOTION_RING_OF_VALOR</Type>
+			<Description>Ring of Valor</Description>
+			<Sound>NONE</Sound>
+			<EquipmentCategory>EQUIPMENTCATEGORY_MISC</EquipmentCategory>
+			<iEquipmentLevel>1</iEquipmentLevel>
+			<AdventurePrereq>ADVENTURE_EQUIPMENT_RING_OF_REGENERATION</AdventurePrereq>
+			<DurabilityType>DURABILITY_UNBREAKABLE</DurabilityType>
+			<iManaCost>50</iManaCost>
+			<bAnyUnitCombat>1</bAnyUnitCombat>
+            <bAlwaysHeal>1</bAlwaysHeal>
+			<iFreeXPFromCombat>2</iFreeXPFromCombat>
+			<Button>Art/Interface/Buttons/Equipment/ringofvalor.dds</Button>
+		</PromotionInfo>
+    </PromotionInfos>
+</Civ4PromotionInfos>
