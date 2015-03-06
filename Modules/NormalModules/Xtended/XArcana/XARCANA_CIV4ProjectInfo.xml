@@ -528,7 +528,7 @@
 			<MovieDefineTag/>
 			<iAIWeight>0</iAIWeight>
 			<iManaCost>400</iManaCost>
-			<iManaUpkeepPerCityTimes100>100</iManaUpkeepPerCityTimes100>
+			<iManaUpkeepPerCityTimes100>300</iManaUpkeepPerCityTimes100>
 			<bGlobalEnchantment>1</bGlobalEnchantment>
 			<BuildingType>BUILDING_ETERNAL_WINTER</BuildingType>
 			<TemporaryTech>TECH_FROZEN_REALM</TemporaryTech>

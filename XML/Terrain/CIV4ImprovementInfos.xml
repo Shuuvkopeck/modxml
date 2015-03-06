@@ -3851,8 +3851,8 @@
             <ArtDefineTag>ART_DEF_IMPROVEMENT_PIRATE_COVE</ArtDefineTag>
             <YieldChanges>
                 <iYieldChange>0</iYieldChange>
-                <iYieldChange>0</iYieldChange>
-                <iYieldChange>2</iYieldChange>
+                <iYieldChange>1</iYieldChange>
+                <iYieldChange>1</iYieldChange>
             </YieldChanges>
             <bActsAsCity>1</bActsAsCity>
             <bHillsMakesValid>0</bHillsMakesValid>
@@ -3899,7 +3899,6 @@
             <iVisibilityChange>0</iVisibilityChange>
             <BonusConvert>NONE</BonusConvert>
             <FeatureUpgrade>NONE</FeatureUpgrade>
-			<PrereqCivilization>CIVILIZATION_LANUN</PrereqCivilization>
             <PrereqCivilization>NONE</PrereqCivilization>
             <PythonAtRange></PythonAtRange>
             <PythonOnMove></PythonOnMove>
@@ -3911,7 +3910,7 @@
 			<Civilopedia></Civilopedia>
             <ArtDefineTag>ART_DEF_IMPROVEMENT_PIRATE_COVE</ArtDefineTag>
             <YieldChanges>
-                <iYieldChange>1</iYieldChange>
+                <iYieldChange>0</iYieldChange>
                 <iYieldChange>1</iYieldChange>
                 <iYieldChange>3</iYieldChange>
             </YieldChanges>
@@ -3972,7 +3971,7 @@
             <Help></Help>
             <ArtDefineTag>ART_DEF_IMPROVEMENT_PIRATE_COVE</ArtDefineTag>
             <YieldChanges>
-                <iYieldChange>2</iYieldChange>
+                <iYieldChange>0</iYieldChange>
                 <iYieldChange>2</iYieldChange>
                 <iYieldChange>4</iYieldChange>
             </YieldChanges>
@@ -5582,7 +5581,7 @@
                 <iYield>0</iYield>
 				<iYield>25</iYield>
 			</YieldCosts>
-			<bDefaultBuildableAllCivs>0</bDefaultBuildableAllCivs>
+			<bDefaultBuildableAllCivs>1</bDefaultBuildableAllCivs>
 		</ImprovementInfo>
         <ImprovementInfo>
             <Type>IMPROVEMENT_WATER_WORKED</Type>

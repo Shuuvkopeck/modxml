@@ -2117,11 +2117,6 @@
             <Type>BUILDING_HERON_THRONE</Type>
             <PrereqTech>TECH_CARTOGRAPHY</PrereqTech>
         </BuildingInfo>
-        <BuildingInfo>
-            <BuildingClass>BUILDINGCLASS_CELESTIAL_COMPASS</BuildingClass>
-            <Type>BUILDING_CELESTIAL_COMPASS</Type>
-            <PrereqTech>TECH_OMNISCIENCE</PrereqTech>
-        </BuildingInfo>
 		<BuildingInfo>		<!-- Exchange -->
 			<BuildingClass>BUILDINGCLASS_CIV_BUILDING2</BuildingClass>
 			<Type>BUILDING_EXCHANGE</Type>

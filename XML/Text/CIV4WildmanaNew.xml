@@ -6181,11 +6181,11 @@ Sly and treacherous, no quarter should be expected from those that count Volanna
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_COTTAGE_HELP</Tag>
-		<English>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop is adjacent</English>
-		<French>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop is adjacent</French>
-		<German>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop is adjacent</German>
-		<Italian>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop is adjacent</Italian>
-		<Spanish>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop is adjacent</Spanish>
+		<English>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop or Watermill is adjacent</English>
+		<French>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop or Watermill is adjacent</French>
+		<German>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop or Watermill is adjacent</German>
+		<Italian>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop or Watermill is adjacent</Italian>
+		<Spanish>[ICON_BULLET]Increased [ICON_PRODUCTION] Output if Workshop or Watermill is adjacent</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_GROUNDWATER_WELL_HELP</Tag>
@@ -9580,6 +9580,14 @@ Sly and treacherous, no quarter should be expected from those that count Volanna
 		<Spanish>[ICON_BULLET]Actual [ICON_STRENGTH] increase: %D1</Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_CIVIC_IMPROVEMENT_COST_MODIFIER_CONTEXT</Tag>
+		<English>[ICON_BULLET]Reduces cost of improvements by: %D1%</English>
+		<French>[ICON_BULLET]Reduces cost of improvements by: %D1%</French>
+		<German>[ICON_BULLET]Reduces cost of improvements by: %D1%</German>
+		<Italian>[ICON_BULLET]Reduces cost of improvements by: %D1%</Italian>
+		<Spanish>[ICON_BULLET]Reduces cost of improvements by: %D1%</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_MISC_FREE_MILITARY_UNITS</Tag>
 		<English>[COLOR_GREEN]%d1 Units[COLOR_REVERT] can be supported for free.</English>
 		<French>[COLOR_GREEN]%d1 Units[COLOR_REVERT] can be supported for free.</French>
@@ -10831,6 +10839,14 @@ Sly and treacherous, no quarter should be expected from those that count Volanna
         <German>[ICON_BULLET]%s1 provides %s2 [ICON_MANA]</German>
         <Italian>[ICON_BULLET]%s1 provides %s2 [ICON_MANA]</Italian>
         <Spanish>[ICON_BULLET]%s1 provides %s2 [ICON_MANA]</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TRAIT_FAITH_FROM_IMPROVEMENT_HELP</Tag>
+        <English>[ICON_BULLET]%s1 provides %s2 [ICON_FAITH]</English>
+        <French>[ICON_BULLET]%s1 provides %s2 [ICON_FAITH]</French>
+        <German>[ICON_BULLET]%s1 provides %s2 [ICON_FAITH]</German>
+        <Italian>[ICON_BULLET]%s1 provides %s2 [ICON_FAITH]</Italian>
+        <Spanish>[ICON_BULLET]%s1 provides %s2 [ICON_FAITH]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_IMPROVEMENT_CULTURE_CHANGE</Tag>

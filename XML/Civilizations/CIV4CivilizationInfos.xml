@@ -977,12 +977,6 @@
             <MaintainFeatures>
             </MaintainFeatures>
 			<ImpInfrastructureHalfCost>IMPROVEMENT_WORKSHOP</ImpInfrastructureHalfCost>
-			<ImprovementNonDefaults>
-				<ImprovementNonDefault>
-					<ImprovementType>IMPROVEMENT_WATERMILL</ImprovementType>
-					<bDifferent>1</bDifferent>
-				</ImprovementNonDefault>
-			</ImprovementNonDefaults>
 			<FavoredYield>YIELD_METAL</FavoredYield>
 			<FlavorScreenImage>Art/Interface/CityScreen/luchuirp</FlavorScreenImage>
 			<FlavorCityScreenImage>Art/Interface/CityScreen/luchuirp</FlavorCityScreenImage>

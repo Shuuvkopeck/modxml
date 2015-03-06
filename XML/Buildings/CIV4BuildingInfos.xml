@@ -7719,6 +7719,8 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 	  		<BuildingClassPrereq>BUILDINGCLASS_TEMPLE_DISTRICT</BuildingClassPrereq>
+            		<FaithFromImprovementType>IMPROVEMENT_TOWN</FaithFromImprovementType>
+            		<iFaithFromImprovement>25</iFaithFromImprovement>
 		</BuildingInfo>
         <BuildingInfo>
             <BuildingClass>BUILDINGCLASS_CELESTIAL_COMPASS</BuildingClass>
@@ -7728,7 +7730,7 @@
             <Civilopedia>TXT_KEY_BUILDING_PLACEHOLDER_PEDIA</Civilopedia>
             <Strategy></Strategy>
             <Help></Help>
-            <Advisor>ADVISOR_RELIGION</Advisor>
+            <Advisor>ADVISOR_SCIENCE</Advisor>
             <ArtDefineTag>ART_DEF_BUILDING_CELESTIAL_COMPASS</ArtDefineTag>
             <MovieDefineTag>ART_DEF_MOVIE_CELESTIAL_COMPASS</MovieDefineTag>
             <HolyCity>NONE</HolyCity>
@@ -7744,7 +7746,7 @@
             <FreeStartEra>NONE</FreeStartEra>
             <MaxStartEra>NONE</MaxStartEra>
             <ObsoleteTech>NONE</ObsoleteTech>
-            <PrereqTech>TECH_CELESTIAL_COMPASS</PrereqTech>
+            <PrereqTech>TECH_SORCERY</PrereqTech>
             <TechTypes>
             </TechTypes>
             <Bonus>NONE</Bonus>
@@ -7761,7 +7763,7 @@
             <FreeBuilding>NONE</FreeBuilding>
             <FreePromotion>NONE</FreePromotion>
             <CivicOption>NONE</CivicOption>
-            <GreatPeopleUnitClass>UNITCLASS_PROPHET</GreatPeopleUnitClass>
+            <GreatPeopleUnitClass>UNITCLASS_SCIENTIST</GreatPeopleUnitClass>
             <iGreatPeopleRateChange>2</iGreatPeopleRateChange>
             <iHurryAngerModifier>0</iHurryAngerModifier>
             <bBorderObstacle>0</bBorderObstacle>
@@ -7870,6 +7872,12 @@
             <CommerceModifiers>
             </CommerceModifiers>
             <GlobalCommerceModifiers>
+                <iCommerce>0</iCommerce>
+                <iCommerce>0</iCommerce>
+                <iCommerce>0</iCommerce>
+                <iCommerce>0</iCommerce>
+                <iCommerce>0</iCommerce>
+                <iCommerce>10</iCommerce>
             </GlobalCommerceModifiers>
             <SpecialistExtraCommerces>
             </SpecialistExtraCommerces>
@@ -12626,6 +12634,8 @@
             <RemovePromotion>NONE</RemovePromotion>
             <SpecialistCommerceChanges>
             </SpecialistCommerceChanges>
+            <ManaFromImprovementType>IMPROVEMENT_TOWN</ManaFromImprovementType>
+            <iManaFromImprovement>25</iManaFromImprovement>
         </BuildingInfo>
         <BuildingInfo>
             <BuildingClass>BUILDINGCLASS_CULT_OF_ESUS_HALL</BuildingClass>

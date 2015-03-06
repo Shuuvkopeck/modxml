@@ -1388,7 +1388,7 @@
             <AndPreReqs>
                     <PrereqTech>TECH_STRENGTH_OF_WILL</PrereqTech>
             </AndPreReqs>
-			<PrereqBonus>BONUS_MANA_ICE</PrereqBonus>
+	    <PrereqBonus>BONUS_MANA_ICE</PrereqBonus>
         </TechInfo>
         <TechInfo>
             <Type>SPELLRESEARCH_FROST_ARMOR</Type>

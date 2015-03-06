@@ -475,7 +475,9 @@
 		<element type="ImprovementYieldChange" minOccurs="0" maxOccurs="*"/>
 	</ElementType>
 	<ElementType name="iManaFromImprovement" content="textOnly" dt:type="int"/>
-	<ElementType name="ManaFromImprovementType" content="textOnly" />		
+	<ElementType name="ManaFromImprovementType" content="textOnly" />
+	<ElementType name="iFaithFromImprovement" content="textOnly" dt:type="int"/>
+	<ElementType name="FaithFromImprovementType" content="textOnly" />		
 	<ElementType name="iMistDensity" content="textOnly" dt:type="int"/>
 	<ElementType name="iBuildingMaintenance" content="textOnly" dt:type="int"/>	
 	<ElementType name="iGPPThresholdReductionPercent" content="textOnly" dt:type="int"/>	
@@ -787,7 +789,9 @@
 		<element type="CommercePerCultureLevelChanges" minOccurs="0"/>
 		<element type="YieldPerCultureLevelChanges" minOccurs="0"/>	
 		<element type="iManaFromImprovement" minOccurs="0" />
-		<element type="ManaFromImprovementType" minOccurs="0" />				
+		<element type="ManaFromImprovementType" minOccurs="0" />
+		<element type="iFaithFromImprovement" minOccurs="0" />
+		<element type="FaithFromImprovementType" minOccurs="0" />				
 <!-- Noble Houses of Erebus -->
 		<element type="iCorporationSupportNeeded" minOccurs="0"/>
 		<element type="CorporationSupportValues" minOccurs="0"/>	

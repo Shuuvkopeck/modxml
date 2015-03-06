@@ -265,19 +265,6 @@
                 </TechYieldChange>
             </TechYieldChanges>
         </ImprovementInfo>
-		<ImprovementInfo>
-			<Type>IMPROVEMENT_WATERMILL</Type>
-            <TechYieldChanges>
-                <TechYieldChange>
-                    <PrereqTech>TECH_MACHINERY</PrereqTech>
-                    <TechYields>
-                        <iYield>0</iYield>
-                        <iYield>1</iYield>
-                        <iYield>1</iYield>
-                    </TechYields>
-                </TechYieldChange>
-            </TechYieldChanges>
-		</ImprovementInfo>
         <ImprovementInfo>
             <Type>IMPROVEMENT_WINDMILL</Type>
             <TechYieldChanges>
