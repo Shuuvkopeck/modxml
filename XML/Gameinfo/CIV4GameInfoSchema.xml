@@ -892,6 +892,11 @@
 	<ElementType name="iExpInBorderModifier" content="textOnly" dt:type="int"/>
 	<ElementType name="bBuildingOnlyHealthy" content="textOnly" dt:type="boolean"/>
 	<ElementType name="iLargestCityHappiness" content="textOnly" dt:type="int"/>
+	<ElementType name="iPillagePercentChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iCaptureCityGoldPercentChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iXPPerCombatChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iGlobalAttitudeChange" content="textOnly" dt:type="int"/>
+	<ElementType name="iImprovementDiscountPercent" content="textOnly" dt:type="int"/>
 	<ElementType name="iFreeSpecialist" content="textOnly" dt:type="int"/>
 	<ElementType name="bNoForeignTrade" content="textOnly" dt:type="boolean"/>
 	<ElementType name="bNoCorporations" content="textOnly" dt:type="boolean"/>
@@ -1073,6 +1078,11 @@
 		<element type="iExpInBorderModifier" minOccurs="0" />
 		<element type="bBuildingOnlyHealthy" minOccurs="0" />
 		<element type="iLargestCityHappiness" minOccurs="0" />
+		<element type="iPillagePercentChange" minOccurs="0" />
+		<element type="iCaptureCityGoldPercentChange" minOccurs="0" />
+		<element type="iXPPerCombatChange" minOccurs="0" />
+		<element type="iGlobalAttitudeChange" minOccurs="0" />
+		<element type="iImprovementDiscountPercent" minOccurs="0" />
 		<element type="iWarWearinessModifier" minOccurs="0" />
 		<element type="iFreeSpecialist" minOccurs="0" />
 		<element type="iTradeRoutes" minOccurs="0" />

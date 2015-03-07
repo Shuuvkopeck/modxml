@@ -625,7 +625,7 @@
 			<Alignment>ALIGNMENT_NEUTRAL</Alignment>
 			<FavoriteWonder>BUILDING_TOWER_OF_EYES</FavoriteWonder>
 			<PermanentTrait>TRAIT_CHARISMATIC</PermanentTrait>
-            <HatedCivic>CIVIC_CENTRALIZATION</HatedCivic>
+            <HatedCivic>CIVIC_ROYAL_MERCHANTS</HatedCivic>
 			<iAttitudeToFemales>0</iAttitudeToFemales>
 			<iAttitudeToMales>0</iAttitudeToMales>
 			<ReligionWeightModifiers>
@@ -1246,7 +1246,7 @@
 			<Alignment>ALIGNMENT_NEUTRAL</Alignment>
 			<FavoriteWonder>BUILDING_TOWER_OF_EYES</FavoriteWonder>
 			<PermanentTrait>TRAIT_CHARISMATIC</PermanentTrait>
-            <HatedCivic>CIVIC_CENTRALIZATION</HatedCivic>
+            <HatedCivic>CIVIC_ROYAL_MERCHANTS</HatedCivic>
 		</LeaderHeadInfo>
 	</LeaderHeadInfos>
 </Civ4LeaderHeadInfos>

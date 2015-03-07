@@ -251,19 +251,21 @@
 			<DisableTechs>
 			</DisableTechs>
 			<InitialCivics>
-					<CivicType>CIVIC_CITY_STATES</CivicType>
-					<CivicType>CIVIC_BENEVOLENCE</CivicType>
-					<CivicType>CIVIC_TRIBALISM</CivicType>
-
-					<CivicType>CIVIC_NO_MEMBERSHIP</CivicType>
+                    <CivicType>CIVIC_DESPOTISM</CivicType>
+                    <CivicType>CIVIC_PATRIOTISM</CivicType>
+                    <CivicType>CIVIC_TRIBALISM</CivicType>
+                    <CivicType>CIVIC_SURVIVAL</CivicType>
+                    <CivicType>CIVIC_CREATIVITY</CivicType>
+                    <CivicType>CIVIC_NO_MEMBERSHIP</CivicType>
                     <CivicType>CIVIC_NONE</CivicType>
 			</InitialCivics>
 			<AnarchyCivics>
-					<CivicType>CIVIC_CITY_STATES</CivicType>
-					<CivicType>CIVIC_BENEVOLENCE</CivicType>
-					<CivicType>CIVIC_TRIBALISM</CivicType>
-
-					<CivicType>CIVIC_NO_MEMBERSHIP</CivicType>
+                    <CivicType>CIVIC_DESPOTISM</CivicType>
+                    <CivicType>CIVIC_PATRIOTISM</CivicType>
+                    <CivicType>CIVIC_TRIBALISM</CivicType>
+                    <CivicType>CIVIC_SURVIVAL</CivicType>
+                    <CivicType>CIVIC_CREATIVITY</CivicType>
+                    <CivicType>CIVIC_NO_MEMBERSHIP</CivicType>
                     <CivicType>CIVIC_NONE</CivicType>
 			</AnarchyCivics>
 			<Leaders>

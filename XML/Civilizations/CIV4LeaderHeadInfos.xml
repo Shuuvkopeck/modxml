@@ -5005,7 +5005,7 @@
             <OpenBordersRefuseAttitudeThreshold>ATTITUDE_FURIOUS</OpenBordersRefuseAttitudeThreshold>
             <iVassalPowerModifier>20</iVassalPowerModifier>
             <iFreedomAppreciation>0</iFreedomAppreciation>
-            <FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
+            <FavoriteCivic>CIVIC_PATRIOTISM</FavoriteCivic>
             <FavoriteReligion>NONE</FavoriteReligion>
             <Traits>
                  <Trait>
@@ -6938,7 +6938,7 @@
             <ConvertReligionRefuseAttitudeThreshold>ATTITUDE_PLEASED</ConvertReligionRefuseAttitudeThreshold>
             <iVassalPowerModifier>20</iVassalPowerModifier>
             <iFreedomAppreciation>0</iFreedomAppreciation>
-            <FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
+            <FavoriteCivic>CIVIC_PATRIOTISM</FavoriteCivic>
             <FavoriteReligion>NONE</FavoriteReligion>
             <Traits>
                  <Trait>
@@ -8389,7 +8389,7 @@
             <OpenBordersRefuseAttitudeThreshold>ATTITUDE_FURIOUS</OpenBordersRefuseAttitudeThreshold>
             <iVassalPowerModifier>20</iVassalPowerModifier>
             <iFreedomAppreciation>0</iFreedomAppreciation>
-            <FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
+            <FavoriteCivic>CIVIC_PATRIOTISM</FavoriteCivic>
             <FavoriteReligion>RELIGION_THE_ORDER</FavoriteReligion>
             <Traits>
                  <Trait>
@@ -15009,7 +15009,7 @@
             <FavoriteTech>TECH_CONSTRUCTION</FavoriteTech>
             <FavoriteUnitCombat>UNITCOMBAT_MELEE</FavoriteUnitCombat>
             <FavoriteWonder>BUILDING_GUILD_OF_HAMMERS</FavoriteWonder>
-            <HatedCivic>CIVIC_NATIONHOOD</HatedCivic>
+            <HatedCivic>CIVIC_PATRIOTISM</HatedCivic>
             <PermanentTrait>NONE</PermanentTrait>
 			<bAltarVictory>1</bAltarVictory>
 			<bArcaneTowerVictory>1</bArcaneTowerVictory>
@@ -24620,7 +24620,7 @@
             <HealthBonusRefuseAttitudeThreshold>NONE</HealthBonusRefuseAttitudeThreshold>
             <iVassalPowerModifier>20</iVassalPowerModifier>
             <iFreedomAppreciation>0</iFreedomAppreciation>
-            <FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
+            <FavoriteCivic>CIVIC_PATRIOTISM</FavoriteCivic>
             <FavoriteReligion>RELIGION_OCTOPUS_OVERLORDS</FavoriteReligion>
             <Traits>
                  <Trait>
@@ -39088,7 +39088,7 @@
             <OpenBordersRefuseAttitudeThreshold>ATTITUDE_FURIOUS</OpenBordersRefuseAttitudeThreshold>
             <iVassalPowerModifier>20</iVassalPowerModifier>
             <iFreedomAppreciation>0</iFreedomAppreciation>
-            <FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
+            <FavoriteCivic>CIVIC_PATRIOTISM</FavoriteCivic>
             <FavoriteReligion>NONE</FavoriteReligion>
 			<Traits>
 				<Trait>

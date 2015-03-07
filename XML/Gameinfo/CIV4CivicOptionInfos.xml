@@ -8,11 +8,11 @@
 	<CivicOptionInfos>
 		<CivicOptionInfo>
 			<Type>CIVICOPTION_GOVERNMENT</Type>
-			<Description>Priveleged Class</Description>
+			<Description>Government</Description>
 			<TraitNoUpkeeps/>
 		</CivicOptionInfo>
 		<CivicOptionInfo>
-			<Type>CIVICOPTION_CULTURAL_VALUES</Type>
+			<Type>CIVICOPTION_VIRTUES</Type>
 			<Description>Virtues</Description>
 			<TraitNoUpkeeps/>
 		</CivicOptionInfo>
@@ -27,6 +27,11 @@
 			<TraitNoUpkeeps/>
 		</CivicOptionInfo>
 		<CivicOptionInfo>
+			<Type>CIVICOPTION_CULTURAL_VALUES</Type>
+			<Description>TXT_KEY_CIVICOPTION_CULTURAL_VALUES</Description>
+			<TraitNoUpkeeps/>
+		</CivicOptionInfo>
+		<CivicOptionInfo>
 			<Type>CIVICOPTION_MEMBERSHIP</Type>
 			<Description>TXT_KEY_CIVICOPTION_MEMBERSHIP</Description>
 			<TraitNoUpkeeps/>
@@ -35,6 +40,6 @@
 			<Type>CIVICOPTION_FAERIE_COURT</Type>
 			<Description>Special</Description>
 			<TraitNoUpkeeps/>
-		</CivicOptionInfo>		
+		</CivicOptionInfo>
 	</CivicOptionInfos>
 </Civ4CivicOptionInfos>
