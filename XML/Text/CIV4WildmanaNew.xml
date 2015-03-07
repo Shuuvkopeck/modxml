@@ -9572,6 +9572,38 @@ Sly and treacherous, no quarter should be expected from those that count Volanna
 		<Spanish>[ICON_BULLET]%D1[ICON_STRENGTH] per City</Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PILLAGE_PERCENT_CHANGE</Tag>
+		<English>[ICON_BULLET]Yields +%D1% from pillaging</English>
+		<French>[ICON_BULLET]Yields +%D1% from pillaging</French>
+		<German>[ICON_BULLET]Yields +%D1% from pillaging</German>
+		<Italian>[ICON_BULLET]Yields +%D1% from pillaging</Italian>
+		<Spanish>[ICON_BULLET]Yields +%D1% from pillaging</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CAPTURE_CITY_GOLD_PERCENT_CHANGE</Tag>
+		<English>[ICON_BULLET]Yields +%D1% [ICON_GOLD] from capturing enemy cities</English>
+		<French>[ICON_BULLET]Yields +%D1% [ICON_GOLD] from capturing enemy cities</French>
+		<German>[ICON_BULLET]Yields +%D1% [ICON_GOLD] from capturing enemy cities</German>
+		<Italian>[ICON_BULLET]Yields +%D1% [ICON_GOLD] from capturing enemy cities</Italian>
+		<Spanish>[ICON_BULLET]Yields +%D1% [ICON_GOLD] from capturing enemy cities</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_XP_PER_COMBAT_CHANGE</Tag>
+		<English>[ICON_BULLET]Your units gain +%D1 XP per combat</English>
+		<French>[ICON_BULLET]Your units gain +%D1 XP per combat</French>
+		<German>[ICON_BULLET]Your units gain +%D1 XP per combat</German>
+		<Italian>[ICON_BULLET]Your units gain +%D1 XP per combat</Italian>
+		<Spanish>[ICON_BULLET]Your units gain +%D1 XP per combat</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MODIFIER</Tag>
+		<English>Your choice of Civics influences our relations.</English>
+		<French>Your choice of Civics influences our relations.</French>
+		<German>Your choice of Civics influences our relations.</German>
+		<Italian>Your choice of Civics influences our relations.</Italian>
+		<Spanish>Your choice of Civics influences our relations.</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_CIVIC_INCREASED_UNIT_LIMIT_CONTEXT</Tag>
 		<English>[ICON_BULLET]Actual [ICON_STRENGTH] increase: %D1</English>
 		<French>[ICON_BULLET]Actual [ICON_STRENGTH] increase: %D1</French>
