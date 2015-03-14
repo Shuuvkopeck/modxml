@@ -1992,6 +1992,7 @@ def reqPirateCove(caster):
 	if pPlot.getBonusType(caster.getTeam()) != -1:
 		return False
 	iPirateCove = gc.getInfoTypeForString('IMPROVEMENT_PIRATE_COVE')
+	iFishingCove = gc.getInfoTypeForString('IMPROVEMENT_FISHING_COVE')
 	iPirateHarbor = gc.getInfoTypeForString('IMPROVEMENT_PIRATE_HARBOR')
 	iPiratePort = gc.getInfoTypeForString('IMPROVEMENT_PIRATE_PORT')
 	iX = caster.getX()
@@ -2001,6 +2002,8 @@ def reqPirateCove(caster):
 			pPlot = CyMap().plot(iiX,iiY)
 			if not pPlot.isNone():
 				iImprovement = pPlot.getImprovementType()
+				if iImprovement == iFishingCove:
+					return False
 				if iImprovement == iPirateCove:
 					return False
 				if iImprovement == iPirateHarbor:
@@ -2013,9 +2016,10 @@ def reqPirateCove(caster):
 def spellPirateCove(caster):
 	pPlot = caster.plot()
 	pPlayer = gc.getPlayer(caster.getOwner())
-
-	if pPlayer.getCivilizationType()==gc.getInfoTypeForString('CIVILIZATION_LANUN'):
+	if pPlayer.getCivilizationType() = gc.getInfoTypeForString('CIVILIZATION_LANUN'):
 		pPlot.setImprovementType(gc.getInfoTypeForString('IMPROVEMENT_PIRATE_COVE'))
+	else:
+		pPlot.setImprovementType(gc.getInfoTypeForString('IMPROVEMENT_FISHING_COVE'))
 
 def reqMarchOfTheTrees(caster):
 	pPlayer = gc.getPlayer(caster.getOwner())

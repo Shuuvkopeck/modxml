@@ -1552,7 +1552,7 @@
             <Description>TXT_KEY_SPELL_PIRATE_COVE</Description>
             <Civilopedia>TXT_KEY_SPELL_PIRATE_COVE_PEDIA</Civilopedia>
             <Help>Create a Pirate Cove</Help>
-            <CivilizationPrereq>CIVILIZATION_LANUN</CivilizationPrereq>
+            <CivilizationPrereq></CivilizationPrereq>
             <UnitPrereq>UNIT_WORKBOAT</UnitPrereq>
             <bAllowAI>1</bAllowAI>
             <iAIWeight>300</iAIWeight>

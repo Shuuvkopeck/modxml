@@ -846,7 +846,7 @@
             </PrereqBonuses>
             <iCost>100</iCost>
             <iMoves>3</iMoves>
-            <iCombat>9</iCombat>
+            <iCombat>12</iCombat>
             <iWithdrawalProb>35</iWithdrawalProb>
             <iPower>10</iPower>
             <UnitMeshGroups>
